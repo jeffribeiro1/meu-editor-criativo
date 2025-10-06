@@ -5,11 +5,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Um editor de texto moderno e interativo com formatação visual em tempo real, perfeito para criar documentos criativos com diversos efeitos especiais! ✨
-
-## 🌟 Demonstração
-
-![Demonstração do Editor](https://via.placeholder.com/800x400/667eea/ffffff?text=Editor+de+Texto+Criativo+em+Ação)
+Um editor de texto moderno e interativo com formatação visual em tempo real, perfeito para criar documentos criativos com diversos efeitos especiais! 
 
 > 🔗 **Demo Online**: [Clique aqui para testar](https://jeffribeiro1.github.io/meu-editor-criativo/)
 
